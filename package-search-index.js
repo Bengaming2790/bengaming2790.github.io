@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"ca.techgarage.scrubians"},{"l":"ca.techgarage.scrubians.client"},{"l":"ca.techgarage.scrubians.commands"},{"l":"ca.techgarage.scrubians.dialogue"},{"l":"ca.techgarage.scrubians.events"},{"l":"ca.techgarage.scrubians.npcs"},{"l":"ca.techgarage.scrubians.npcs.violent"}];updateSearchResults();
